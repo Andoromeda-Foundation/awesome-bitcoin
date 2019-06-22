@@ -129,6 +129,8 @@ List of content
 * [Bitcoin Stackexchange](https://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 * [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS)
+* [BITCOIN INFORMATION & RESOURCES by JAMESON LOPP](https://www.lopp.net/bitcoin-information.html)
+* [Bitcoin Resources](https://dergigi.com/bitcoin/resources/)
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 Created by BlockchainU fellows.
